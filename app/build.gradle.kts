@@ -5,7 +5,7 @@ plugins {
 
 android {
   namespace = "com.example.huleca_mobapp"
-  compileSdk = 34
+  compileSdk = 35
   
   defaultConfig {
     applicationId = "com.example.huleca_mobapp"
