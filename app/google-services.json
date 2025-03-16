@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83151120151",
+    "project_id": "huleca-v1",
+    "storage_bucket": "huleca-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83151120151:android:ae41b7e64ac3b3265d3952",
+        "android_client_info": {
+          "package_name": "com.example.huleca_mobapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WLsKBQAMXvBr86CdLNRx8aUzlCz1YAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
