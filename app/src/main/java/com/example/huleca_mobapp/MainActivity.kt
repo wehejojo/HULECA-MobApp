@@ -204,7 +204,7 @@ fun PastViolations() {
             Column(
               modifier = Modifier
                 .fillMaxWidth()
-                .padding(8.dp)
+                .padding(9.dp)
                 .background(Color.Gray)
             ) {
 //              Text("Location: ${violation.location}")
