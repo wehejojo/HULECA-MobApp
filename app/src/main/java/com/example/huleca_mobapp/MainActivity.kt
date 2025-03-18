@@ -205,12 +205,21 @@ fun PastViolations() {
               modifier = Modifier
                 .fillMaxWidth()
                 .padding(8.dp)
-                .background(Color.LightGray)
+                .background(Color.Gray)
             ) {
 //              Text("Location: ${violation.location}")
-              Text("Location: University of the Cordilleras")
-              Text("Time: ${violation.time}")
-              Text("Image Path: ${violation.imagePath}")
+              Text(
+                text = "Location: University of the Cordilleras",
+                color = Color.Black
+              )
+              Text(
+                text = "Time: ${violation.time}",
+                color = Color.Black
+              )
+              Text(
+                text = "Image Path: ${violation.imagePath}",
+                color = Color.Black
+              )
 //              if (violation.imagePath.isNotBlank()) {
 //                AsyncImage(
 //                  model = violation.imagePath,
